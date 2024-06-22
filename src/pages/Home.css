@@ -1,0 +1,41 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .shop-info {
+    margin-top: 10px;
+    font-size: 1.2em;
+    color: #333;
+    text-align: center;
+  }
+  
+  .contact-form {
+    margin-top: 20px;
+    width: 100%;
+  }
+  
+  .featured-products {
+    margin-top: 40px;
+    width: 100%;
+  }
+  
+  .featured-products h2 {
+    margin-top: 0;
+    text-align: center;
+  }
+  
+  .featured-products ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .featured-products li {
+    margin-bottom: 20px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+  }
+  

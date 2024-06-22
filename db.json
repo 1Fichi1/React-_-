@@ -1,0 +1,25 @@
+{
+    "products": [
+      { "id": 1, "name": "POP! DONATELLO (CLASSIC)", "description": "TEENAGE MUTANT NINJA TURTLES", "price": 10.99, "image": "/product1.png", "category": 1 },
+      { "id": 2, "name": "POP! MICHELANGELO (CLASSIC)", "description": "TEENAGE MUTANT NINJA TURTLES", "price": 12.99, "image": "/product2.png", "category": 1 },
+      { "id": 3, "name": "POP! LEONARDO (CLASSIC)", "description": "TEENAGE MUTANT NINJA TURTLES", "price": 8.99, "image": "/product3.png", "category": 1 },
+      { "id": 4, "name": "POP! RAPHAEL (CLASSIC)", "description": "TEENAGE MUTANT NINJA TURTLES", "price": 14.99, "image": "/product4.png", "category": 1 },
+      { "id": 5, "name": "POP! & BUDDY SLASH WITH PRE-MUTATED SLASH", "description": "Description 5", "price": 9.99, "image": "/product5.png", "category": 1 },
+      { "id": 6, "name": "POP! STITCH AS GUS GUS", "description": "DISNEY", "price": 7.99, "image": "/product6.png", "category": 2 },
+      { "id": 7, "name": "POP! STITCH AS PONGO", "description": "DISNEY", "price": 11.99, "image": "/product7.png", "category": 2 },
+      { "id": 8, "name": "POP! STITCH AS SIMBA", "description": "DISNEY", "price": 13.99, "image": "/product8.png", "category": 2 },
+      { "id": 9, "name": "POP! STITCH AS CHESHIRE CAT", "description": "DISNEY", "price": 15.99, "image": "/product9.png", "category": 2 },
+      { "id": 10, "name": "POP! STITCH AS BEAST", "description": "DISNEY", "price": 6.99, "image": "/product10.png", "category": 2 },
+      { "id": 11, "name": "POP! VANITY SMURF", "description": "THE SMURFS", "price": 10.99, "image": "/product11.png", "category": 3 },
+      { "id": 12, "name": "POP! SMURFETTE", "description": "THE SMURFS", "price": 12.99, "image": "/product12.png", "category": 3 },
+      { "id": 13, "name": "POP! JACK SKELLINGTON AS THE KING", "description": "DISNEY", "price": 8.99, "image": "/product13.png", "category": 4 },
+      { "id": 14, "name": "POP! SALLY AS THE QUEEN", "description": "DISNEY", "price": 14.99, "image": "/product14.png", "category": 4 },
+      { "id": 15, "name": "POP! BRUNO MADRIGAL WITH PROPHECY (GLOW)", "description": "DISNEY", "price": 9.99, "image": "/product15.png", "category": 4 },
+      { "id": 16, "name": "POP! FLOATING AANG", "description": "NICKELODEON", "price": 7.99, "image": "/product16.png", "category": 4 },
+      { "id": 17, "name": "BITTY POP! FIVE NIGHTS AT FREDDY'S 4-PACK SERIES 3", "description": "FIVE NIGHTS AT FREDDY'S", "price": 11.99, "image": "/product17.png", "category": 5 },
+      { "id": 18, "name": "ONE PIECE MYSTERY MINIS", "description": "ONE PIECE", "price": 13.99, "image": "/product18.png", "category": 5 },
+      { "id": 19, "name": "DEMON SLAYER MINI VINYL FIGURES", "description": "DEMON SLAYER", "price": 15.99, "image": "/product19.png", "category": 5 },
+      { "id": 20, "name": "BITTY POP! MARVEL THE INFINITY SAGA 4-PACK SERIES 4", "description": "MARVEL", "price": 6.99, "image": "/product20.png", "category": 5 }
+    ]
+  }
+  
